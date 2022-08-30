@@ -1,7 +1,7 @@
 # My computer on desktop
 
 
-[![my computer on desktop](red2.png)](https://github.com/howsworks/my.computer.on.desktop)
+[![my computer on desktop](red2.png)](https://computersolve.com/my-computer-on-desktop/)
 
 
 In this tutorial, we are going to see how to show your computer icon on desktop in Windows 10. If you’ve been using Windows for a long time, you’ll probably remember that until Windows 7, the desktop contained a few default icons for quick access to the computer, user documents, network, recycle garbage, and control panel. In Windows 10, you only see an icon for the Recycle Bin.
